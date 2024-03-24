@@ -11,7 +11,7 @@ Explanation.
 Description about the working.
 
 >Install python latest version and Jupyter notebook on the local machine.
->Download the zip file where it has the csv file and code.
+>Download the zip file where it has the csv file and code from the Github.
 >Open the terminal in the local pc and open the Jupyter notebook.
 >Locate the files and run it on the Jupyter notebook.
 >You can make the necessary changes and play with the code based on the requirement you want from the data.
